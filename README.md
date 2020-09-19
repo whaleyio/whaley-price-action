@@ -4,7 +4,7 @@ Price action is the movement of a security's price plotted over time. Price acti
 
 ## Feature
 - Doji - [Ref](https://www.investopedia.com/terms/d/doji.asp)
-- Doji Star
+- Doji Star - [Ref](https://www.investopedia.com/terms/s/star.asp)
 
 ## Testing
 Test framework using Pytest:
