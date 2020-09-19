@@ -3,12 +3,10 @@
 Price action is the movement of a security's price plotted over time. Price action forms the basis for all technical analysis of a stock, commodity or other asset chart. Many short-term traders rely exclusively on price action and the formations and trends extrapolated from it to make trading decisions. Technical analysis as a practice is a derivative of price action since it uses past prices in calculations that can then be used to inform trading decisions. [Investopedia](https://www.investopedia.com/terms/p/price-action.asp)
 
 ## Feature
----
 - Doji - [Ref](https://www.investopedia.com/terms/d/doji.asp)
 - Doji Star
 
 ## Testing
----
 Test framework using Pytest:
 ```python
 (py38) ➜ whaley-price-action git:(master) ✗ pytest
